@@ -1,0 +1,19 @@
+directory : C:\Users\Administrator\Desktop\서강욱
+
+1학년 : 1.54 GB
+기타 : 874.04 MB
+동아리 : 816.58 MB
+과제 : 234.63 MB
+Speccy_1.24_Portabel : 13.52 MB
+폰트통v2.0.exe : 2.38 MB
+CBrowser : 1.04 MB
+서강욱.jpg : 951.16 KB
+학생회 : 413.94 KB
+서류 : 374.75 KB
+Thumbs.db : 162.50 KB
+캡처.PNG : 8.37 KB
+서강욱.kut : 6.28 KB
+홈그룹 암호.txt : 10 byte
+
+
+total size : 3.44 GB
